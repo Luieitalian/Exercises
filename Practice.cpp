@@ -9,7 +9,7 @@ using namespace std;
 int main (){
     setlocale(LC_ALL , "Turkish");
     
-    cout << "Im confused";
+    cout << "Im sooooooo confused";
 
     return 0;
 }
