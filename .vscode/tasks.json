@@ -10,7 +10,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\MatrisOlustur.exe"
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
